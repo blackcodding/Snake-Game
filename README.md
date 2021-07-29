@@ -1,7 +1,8 @@
-# Snake-Game
+# Snake Game 🐍🍎
 
 - Build A Classic Snake Game With Respondsive UI.
 - Implimented by using only HTML5, CSS3 and Vanilla Js.
+- Without using CSS Canvas.
 
 ## Screenshot bellow 👇
 
